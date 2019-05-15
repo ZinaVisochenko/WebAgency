@@ -1,0 +1,573 @@
+.back {
+  height: 995px;
+  background-image: url(img/work.jpg);
+  background-size: cover;
+  padding-top: 65px;
+}
+.back .packs {
+  height: 170px;
+}
+.back .text {
+  font-size: 48px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.back .text1 {
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+.back .bg1 {
+  background-image: url(img/favourite.png);
+  width: 251px;
+  height: 174px;
+  text-align: center;
+  font-size: 48px;
+  color: white;
+  padding-top: 45px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.back .bg1 p {
+  font-size: 18px;
+}
+.back .bg2 {
+  background-image: url(img/tasks.png);
+  width: 252px;
+}
+.back .bg3 {
+  background-image: url(img/accessory.png);
+}
+.right {
+  font-size: 30px;
+  margin-top: 42px;
+}
+.right button {
+  background: 0;
+  border: 0;
+}
+.right button:hover {
+  color: #f6ae48;
+}
+.line {
+  height: 40px;
+  width: 100%;
+  background: #ffffff;
+  border-bottom: 2px solid #adadad;
+}
+.studio {
+  font-size: 48px;
+  font-weight: bold;
+  margin-top: 218px;
+}
+.we {
+  font-size: 340px;
+  color: #f4f4f4;
+  font-weight: bold;
+}
+.basic {
+  font-size: 18px;
+  margin-top: -315px;
+}
+.basis {
+  margin-top: 165px;
+}
+.basis .background1 {
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.basis .background1 .rocket {
+  background-image: url(img/rocket19.png);
+  width: 30px;
+  height: 58px;
+}
+.basis .background1 .start {
+  font-size: 20.45px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.basis .background1 .want {
+  line-height: 1.6;
+  font-size: 15.34px;
+  margin-top: 8px;
+}
+.basis .background1 .frame {
+  border: 2px solid white;
+  width: 131px;
+  height: 36px;
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+  padding-left: 15px;
+  padding-top: 4px;
+  margin-top: 20px;
+  float: left;
+}
+.basis .background1 .b {
+  height: 34px;
+  width: 32px;
+  background-image: url(img/Right_arrow2.png);
+  background-color: transparent;
+  border: 0;
+  margin-top: 20px;
+  position: absolute;
+  bottom: 22px;
+  right: 18px;
+}
+.basis .background1:hover {
+  background-color: #f6ae48;
+}
+.basis .background1:hover .rocket {
+  background-image: url(img/rocket199.png);
+}
+.basis .background1:hover .start {
+  color: white;
+}
+.basis .background1:hover .want {
+  color: white;
+}
+.basis .background1:hover .frame {
+  border: 2px solid white;
+}
+.basis .background2 .mobile {
+  background-image: url(img/mobile209.png);
+  width: 28px;
+  height: 45px;
+}
+.basis .background2 .advancement {
+  font-size: 20.45px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.basis .background2 .want {
+  line-height: 1.6;
+  font-size: 15.34px;
+  margin-top: 10px;
+}
+.basis .background2 .frame {
+  border: 2px solid white;
+  width: 131px;
+  height: 36px;
+  color: white;
+  font-size: 18px;
+  padding-left: 15px;
+  padding-top: 2px;
+  margin-top: 45px;
+}
+.basis .background2:hover .mobile {
+  background-image: url(img/mobile20.png);
+}
+.basis .background2:hover .advancement {
+  color: white;
+}
+.basis .background2:hover .want {
+  color: white;
+}
+.basis .background2:hover .frame {
+  border: 2px solid white;
+}
+.basis .background3 .heart {
+  background-image: url(img/lifeline55.png);
+  width: 54px;
+  height: 44px;
+}
+.basis .background3 .advancement {
+  font-size: 20.45px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.basis .background3 .want {
+  line-height: 1.6;
+  font-size: 15.34px;
+  margin-top: 10px;
+}
+.basis .background3 .frame {
+  border: 2px solid white;
+  width: 131px;
+  height: 36px;
+  color: white;
+  font-size: 18px;
+  padding-left: 15px;
+  padding-top: 2px;
+  margin-top: 45px;
+}
+.basis .background3:hover .heart {
+  background-image: url(img/lifeline5.png);
+}
+.basis .background3:hover .advancement {
+  color: white;
+}
+.basis .background3:hover .want {
+  color: white;
+}
+.basis .background3:hover .frame {
+  border: 2px solid white;
+}
+.back1 {
+  height: 695px;
+  background-image: url(img/work1.jpg);
+  background-size: cover;
+  padding-top: 205px;
+  margin-top: 200px;
+}
+.back1 .text {
+  font-size: 48px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  height: 165px;
+}
+.back1 .text1 {
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  height: 165px;
+}
+.back2 {
+  height: 526px;
+  width: 666px;
+  background-image: url(img/settings48.jpg);
+  font-size: 50px;
+  color: white;
+  padding-top: 118px;
+  padding-left: 130px;
+  margin-top: -65px;
+  position: absolute;
+}
+.height1 {
+  margin-top: 170px;
+}
+.height1 .foto1 {
+  width: 336px;
+  background-image: url(img/foto1.jpg);
+  height: 315px;
+  font-size: 50.55px;
+  color: white;
+  padding: 40px;
+  margin-top: 30px;
+}
+.height1 .foto1 hr {
+  margin-top: 0;
+}
+.height1 .foto1 .border1 {
+  border: 3px solid #00b9e7;
+  width: 200px;
+  height: 55px;
+  background-color: transparent;
+  margin-top: 20px;
+  font-size: 24.17px;
+  color: white;
+  padding-top: 8px;
+  padding-left: 25px;
+  float: left;
+}
+.height1 .foto1 .arrow {
+  height: 33px;
+  width: 32px;
+  background-color: transparent;
+  background-image: url(img/Right_arrow2.png);
+  border: 0;
+  margin-top: 30px;
+  margin-left: 24px;
+  float: left;
+}
+.height1 .foto1 .arrow:hover {
+  background-image: url(img/Right_arrow.png);
+}
+.height1 .foto1 .page {
+  height: 140px;
+}
+.height1 .foto2 {
+  background-image: url(img/foto2.jpg);
+}
+.height1 .foto2 .border2 {
+  border: 3px solid #ffcb00;
+}
+.height1 .foto2 .arrow:hover {
+  background-image: url(img/Right_arrow_yellow.png);
+}
+.height1 .foto3 {
+  background-image: url(img/foto3.jpg);
+}
+.height1 .foto3 .border3 {
+  border: 3px solid #66bf0d;
+}
+.height1 .foto3 .arrow:hover {
+  background-image: url(img/Right_arrow_green.png);
+}
+.SEO {
+  margin-top: 150px;
+}
+.SEO .be_the {
+  color: #dedede;
+  font-size: 79.55px;
+  margin-left: -50px;
+}
+.SEO .first {
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: -83px;
+}
+.SEO .we1 {
+  font-size: 24px;
+  margin-top: 20px;
+  line-height: 1.9;
+}
+.SEO .yandex {
+  margin-top: 30px;
+}
+.exp_consalt {
+  margin-top: 150px;
+}
+.exp_consalt .back3 {
+  height: 117px;
+  background-color: #303263;
+  text-align: center;
+}
+.exp_consalt .back3 .our {
+  font-size: 96.36px;
+  color: #8a8ba1;
+}
+.exp_consalt .back3 .projects {
+  font-size: 36px;
+  color: white;
+  position: relative;
+  z-index: 4;
+  left: -100px;
+}
+.exp_consalt .sa {
+  height: 519px;
+  background-image: url(img/sa.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.exp_consalt .expertise {
+  height: 519px;
+  background-image: url(img/expertise.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.exp_consalt .asc {
+  height: 401px;
+  background-image: url(img/asc.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.exp_consalt .rectangle {
+  height: 401px;
+  background-image: url(img/ipadpro_lifestyle.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.exp_consalt .geV2 {
+  height: 401px;
+  background-image: url(img/geV2-1EUZhg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.exp_consalt .Realistic {
+  height: 401px;
+  background-image: url(img/Realistic.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.exp_consalt .back4 {
+  height: 117px;
+  background-color: #303263;
+  text-align: center;
+}
+.exp_consalt .back4 .yet {
+  height: 66px;
+  width: 240px;
+  font-size: 23px;
+  color: white;
+  background-color: #6a6b8e;
+  border-radius: 10px;
+  border: 0;
+  margin-top: 25px;
+}
+.exp_consalt .back4 .yet:hover {
+  color: #303263;
+}
+.adapt {
+  width: 100%;
+  overflow: hidden;
+  padding-top: 100px;
+  margin-top: 60px;
+}
+.adapt .be_the {
+  color: #dedede;
+  font-size: 79.55px;
+}
+.adapt .first {
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: -79px;
+  margin-left: 55px;
+}
+.adapt .we1 {
+  font-size: 24px;
+  margin-top: 10px;
+  margin-left: 55px;
+  line-height: 1.6;
+}
+.adapt .iphone {
+  margin-top: 119px;
+}
+.adapt .right_1 img {
+  width: 95%;
+}
+.adapt h2 {
+  margin: 0;
+  color: #666;
+  padding-top: 90px;
+  font-size: 52px;
+  font-family: "trebuchet ms", sans-serif;
+}
+.adapt .item {
+  background: transparent;
+  text-align: center;
+  height: 400px !important;
+}
+.adapt .carousel {
+  margin-top: 20px;
+}
+.adapt .carousel .left {
+  background-image: none !important;
+  margin-top: 0 !important;
+}
+.adapt .carousel .right {
+  background-image: none !important;
+  margin-top: 0 !important;
+}
+.back5 {
+  background-image: url(img/equipment1.jpg);
+  background-size: cover;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 160px;
+}
+.back5 .height3 .trade {
+  font-size: 48px;
+  text-align: center;
+}
+.back5 .program {
+  padding-top: 17px;
+}
+.back5 b {
+  font-size: 29px;
+  vertical-align: middle;
+}
+.back5 p {
+  font-size: 18px;
+  margin-top: 35px;
+}
+.back5 .height4 {
+  text-align: center;
+}
+.back5 .height4 button {
+  color: white;
+  font-size: 24px;
+  width: 330px;
+  height: 65px;
+  background-color: #f6ae48;
+  border-radius: 20px;
+  border: 1px solid #f6ae48;
+  font-weight: bold;
+}
+.back5 .height4 button:hover {
+  border: 1px solid white;
+}
+.margin_2 {
+  margin-top: 220px;
+}
+.margin_2 .be_the {
+  color: #dedede;
+  font-size: 72px;
+  margin-left: -40px;
+}
+.margin_2 .first {
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: -77px;
+}
+.margin_2 .we1 {
+  font-size: 24px;
+  margin-top: 20px;
+  line-height: 1.6;
+}
+.margin_2 img {
+  margin-top: -40px;
+}
+.back6 {
+  height: 690px;
+  background-image: url(img/picture.jpg);
+  background-size: cover;
+  color: white;
+  padding-top: 100px;
+  margin-top: 140px;
+}
+.back6 .contact {
+  font-size: 30px;
+}
+.back6 .ready {
+  font-size: 18px;
+}
+.back6 .name {
+  width: 300px;
+  height: 40px;
+  background: 0;
+  border: 3px solid white;
+  font-size: 18px;
+  padding-left: 15px;
+}
+.back6 ::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: white;
+}
+.back6 ::-moz-placeholder {
+  /* Firefox 19+ */
+  color: white;
+}
+.back6 :-ms-input-placeholder {
+  /* IE 10+ */
+  color: white;
+}
+.back6 :-moz-placeholder {
+  /* Firefox 18- */
+  color: white;
+}
+.back6 .surname {
+  margin-left: -7px;
+}
+.back6 .mail {
+  width: 597px;
+  margin-top: -3px;
+}
+.back6 .message {
+  height: 171px;
+}
+.back6 .our {
+  padding-left: 15px;
+}
+.back6 .send {
+  width: 143px;
+  height: 44px;
+  background-color: #f6ae48;
+  border-radius: 14px;
+  border: 0;
+  border: 1px solid #f6ae48;
+  margin-top: 15px;
+  margin-left: 75px;
+}
+.back6 .send:hover {
+  border: 1px solid white;
+}
+.back7 {
+  background-color: #f6ae48;
+  height: 108px;
+}
